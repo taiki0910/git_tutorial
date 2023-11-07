@@ -12,10 +12,60 @@ div {
 }
 
 ul {
-    paddin: 0px;
+    padding: 0px;
 }
 
 ul li {
     padding: 10px;
     list-style: none;
+}
+
+p {
+    padding: 10px;
+}
+
+.index {
+    border: 1px solid #999;
+    width: 250px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+}
+
+#container {
+    width: 940px;
+    margin: 0px auto;
+}
+
+#container {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+a {
+    color: #999;
+}
+
+a:hover {
+    color: #f00;
+}
+
+div#form {
+    width: 500px;
+    margin: 20px auto;
+}
+
+#form div{
+    margin: 0px;
+}
+
+label{
+    width: 20px;
+}
+
+input, textarea{
+    margin: 10px 10px;
+    width: 300px;
 }
