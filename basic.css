@@ -1,0 +1,21 @@
+h1 {
+    font-size: 20px;
+    color: blue;
+    background-color: lightgray;
+    border: 1px solid blue;
+}
+
+div {
+    width: 400px;
+    margin: 50px auto;
+    font-size: 14px;
+}
+
+ul {
+    paddin: 0px;
+}
+
+ul li {
+    padding: 10px;
+    list-style: none;
+}
